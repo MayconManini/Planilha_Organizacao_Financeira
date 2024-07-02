@@ -1,6 +1,6 @@
 # Planilha_Organizacao_Financeira
 
-## **Sobre a Planilha** :brush:
+## **Sobre a Planilha :blush:** 
 
 A planilha tem como objetivo a visualização mensal de gastos que o usuário julgue como "não essenciais".
 
