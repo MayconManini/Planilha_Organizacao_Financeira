@@ -13,7 +13,7 @@ OBS: A planilha ainda só existe no Excel, ainda não a fiz em um outro software
 
 
 Este é meu primeiro repositório, fiz com um arquivo do Excel pois trabalho com isso.
-Ainda estou estudando programação, espero me tornar um estagiário em *QA* daqui um tempo.
+Ainda estou estudando programação, espero me tornar um estagiário em *QA* daqui um tempo. \n
 Até mais :sunglasses:
 
 
