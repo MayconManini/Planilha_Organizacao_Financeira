@@ -1,6 +1,6 @@
 # Planilha_Organizacao_Financeira
 
-# **Sobre a Planilha**
+## **Sobre a Planilha** :brush:
 
 A planilha tem como objetivo a visualização mensal de gastos que o usuário julgue como "não essenciais".
 
@@ -14,6 +14,7 @@ OBS: A planilha ainda só existe no Excel, ainda não a fiz em um outro software
 
 Este é meu primeiro repositório, fiz com um arquivo do Excel pois trabalho com isso.
 Ainda estou estudando programação, espero me tornar um estagiário em *QA* daqui um tempo.
+Até mais :sunglasses:
 
 
 
