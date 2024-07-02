@@ -1,2 +1,4 @@
 # Planilha_Organizacao_Financeira
- ### Ainda estou trabalhando no "Como Utilizar"; devo publicar ainda hoje
+Irei terminar de escrever isso ainda hoje :smile:
+
+
